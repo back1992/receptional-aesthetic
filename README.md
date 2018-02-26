@@ -1,3 +1,4 @@
-# My Awesome Book
+# 接受美学 {#接受美学}
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+——文本·接受心理·艺术视野
+

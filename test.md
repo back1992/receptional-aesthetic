@@ -1,125 +1,8 @@
 
 
+关于莎士比亚的新话题
 
-
-  
-@font-face{  
-font-family:"Times New Roman";  
-}  
-  
-@font-face{  
-font-family:"宋体";  
-}  
-  
-@font-face{  
-font-family:"Courier New";  
-}  
-  
-@font-face{  
-font-family:"Calibri";  
-}  
-  
-@font-face{  
-font-family:"新宋体";  
-}  
-  
-@font-face{  
-font-family:"Roboto";  
-}  
-  
-p.MsoNormal{  
-mso-style-name:正文;  
-mso-style-parent:"";  
-margin:0pt;  
-margin-bottom:.0001pt;  
-mso-pagination:none;  
-text-align:justify;  
-text-justify:inter-ideograph;  
-font-family:Calibri;  
-mso-fareast-font-family:宋体;  
-mso-bidi-font-family:'Times New Roman';  
-font-size:10.5000pt;  
-mso-font-kerning:1.0000pt;  
-}  
-  
-h3{  
-mso-style-name:"标题 3";  
-mso-style-noshow:yes;  
-mso-style-next:正文;  
-margin-top:5.0000pt;  
-margin-bottom:5.0000pt;  
-mso-margin-top-alt:auto;  
-mso-margin-bottom-alt:auto;  
-mso-pagination:none;  
-text-align:left;  
-font-family:宋体;  
-font-weight:bold;  
-font-size:13.5000pt;  
-}  
-  
-span.10{  
-font-family:'Times New Roman';  
-}  
-  
-span.15{  
-font-family:'Courier New';  
-font-size:10.0000pt;  
-}  
-  
-span.16{  
-font-family:'Times New Roman';  
-font-style:italic;  
-}  
-  
-span.17{  
-font-family:'Times New Roman';  
-font-weight:bold;  
-}  
-  
-p.p{  
-mso-style-name:"普通\\(网站\\)";  
-margin-top:5.0000pt;  
-margin-right:0.0000pt;  
-margin-bottom:5.0000pt;  
-margin-left:0.0000pt;  
-mso-margin-top-alt:auto;  
-mso-margin-bottom-alt:auto;  
-mso-pagination:none;  
-text-align:left;  
-font-family:Calibri;  
-mso-fareast-font-family:宋体;  
-mso-bidi-font-family:'Times New Roman';  
-font-size:12.0000pt;  
-}  
-  
-span.msoIns{  
-mso-style-type:export-only;  
-mso-style-name:"";  
-text-decoration:underline;  
-text-underline:single;  
-color:blue;  
-}  
-  
-span.msoDel{  
-mso-style-type:export-only;  
-mso-style-name:"";  
-text-decoration:line-through;  
-color:red;  
-}  
-@page{mso-page-border-surround-header:no;  
-	mso-page-border-surround-footer:no;}@page Section0{  
-margin-top:72.0000pt;  
-margin-bottom:72.0000pt;  
-margin-left:90.0000pt;  
-margin-right:90.0000pt;  
-size:595.3000pt 841.9000pt;  
-layout-grid:15.6000pt;  
-}  
-div.Section0{page:Section0;}
-
-关
-
-于莎士比亚的新话题
+![](http://www.booyee.com.cn/uploadfiles/06693446235.jpg)
 
 ### **一**
 
@@ -141,8 +24,6 @@ div.Section0{page:Section0;}
 
 10多年之后\(1867年\)，一个偶然的机会，人们在伦敦的诺森伯兰大厦中发现了一页手稿，据考证是莎士比亚同时代人约翰·戴维斯在一张纸上的信笔之作，纸上写的仅是伊丽莎白时代的一些人名而已，不过戴维斯曾经当过培根的私人秘书；于是人们从这张手稿上发现了一些蛛丝马迹。从此以后，莎士比亚的作品被人看作是一个密码箱，人们用种种方法企图从中破译出这个千古之谜。例如：一位叫休·勃兰克的美国人，他就破译过莎士比亚的墓志铭。莎士比亚的墓志铭是这样写的：
 
-
-
 请看在上帝的份上，好心的朋友，
 
 别挖掘这抔入葬的骨头
@@ -150,8 +31,6 @@ div.Section0{page:Section0;}
 凡放过这几块墓石者，我祝他将福寿昌盛
 
 凡移动我尸骨者，我咒他大祸临身。
-
-
 
 墓志铭写得像中国的打油诗，拼写的大小字母参差错落，形式奇特。作者认为“这首墓志铭是一首引人注目的密码铭文，内含某种秘密”。于是她动用独特的方法破译，结果得出密码中隐含“培根”二字。另一位美国学者布朗，他在勃兰克的启发下，也出版了一本小册子《这是莎士比亚的自白书吗？莎士比亚墓志铭中的密码》。他认为密码中的句子是：“弗兰西斯·培根写作了莎士比亚戏剧.....。”
 
@@ -277,9 +156,5 @@ o当代人不仅应从莎士比亚取之不尽的艺术宝库中吸取丰富的�
 
 14布洛克：《国际莎学研究新思想与新技术》、《莎士比亚研究集》，中国莎士比亚研究会编1988年浙江人民出版社出版，第42页。
 
-
-
 �\_��Y�m
-
-
 

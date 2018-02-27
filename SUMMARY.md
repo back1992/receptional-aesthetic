@@ -16,6 +16,8 @@
     * [——谈艺术形象与艺术接受](di-er-bu-fen/2-2-2.md)
   * [三、维特热的兴起与消退](di-er-bu-fen/2-3-1.md)
     * [——谈文学接受审美趣味的转移](di-er-bu-fen/2-3-2.md)
+  * [四、震动欧洲的《欧那尼之战》](di-er-bu-fen/2-4-1.md)
+    * [——谈文学接受的期待视野](di-er-bu-fen/2-4-2.md)
 * [第三部分](di-san-bu-fen.md)
 * [test](test.md)
 * [关于莎士比亚的新话题](di-san-bu-fen/guan-yu-sha-shi-bi-ya-de-xin-hua-ti.md)

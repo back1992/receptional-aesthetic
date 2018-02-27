@@ -21,5 +21,5 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg){:height="36px" width="36px"}  |  ![](https://upload.wikimedia.org/wikipedia/commons/b/bb/Ilya_Efimovich_Repin_%281844-1930%29_-_Portrait_of_Leo_Tolstoy_%281887%29.jpg){:height="36px" width="36px"} 
 
 
-<a href="url"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg" align="left" height="48" width="48" ></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg" align="left" height="48" width="48" >
 

@@ -6,5 +6,8 @@
 
 &emsp;&emsp;然而，尽管许多人用文字为这位大诗人建造了一座金碧辉煌的庙宇，但要把他赶出庙堂，全盘否定他的人也不是没有。令人惊寄的是，这种例外现象，却是出自一位可以与莎士比亚并驾齐驱的大文豪——《战争与和平》的作者托尔斯泰身上。这无疑是文学史上的一个重要现象，剖析这种现象发生的原因，进而探究文学接受中的差异性和背离性是很有意义的。
 
-![](https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg)![](https://upload.wikimedia.org/wikipedia/commons/b/bb/Ilya_Efimovich_Repin_%281844-1930%29_-_Portrait_of_Leo_Tolstoy_%281887%29.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg){:height="100px" width="400px"}
+
+![](https://upload.wikimedia.org/wikipedia/commons/b/bb/Ilya_Efimovich_Repin_%281844-1930%29_-_Portrait_of_Leo_Tolstoy_%281887%29.jpg){:height="100px" width="400px"}
+
 

@@ -10,6 +10,7 @@
   * [五、接受美学与文学批评](di-yi-bu-fen/5-litereture-critisize.md)
   * [六、接受美学的发展与流变](di-yi-bu-fen/6-change-and-develop.md)
 * [第二部分](di-er-bu-fen.md)
+  * [一、托尔斯泰为何否定莎士比亚](di-yi-bu-fen/1-yi-3001-jie-shou-mei-xue-de-yuan-qi-he-xian-zhuang.md)
 * [第三部分](di-san-bu-fen.md)
 * [test](test.md)
 * [关于莎士比亚的新话题](di-san-bu-fen/guan-yu-sha-shi-bi-ya-de-xin-hua-ti.md)

@@ -23,4 +23,4 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg" align="left" height="48" width="48" >
 
- ![smiley image size](/assets/Sholokhov-1938.jpg){:height="36px" width="36px"}
+ ![smiley image size](/assets/Sholokhov-1938.jpg){:height="100px" width="400px"}

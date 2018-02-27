@@ -23,3 +23,5 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg" align="left" height="48" width="48" >
 
+ ![smiley](https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg){:height="36px" width="36px"}.
+

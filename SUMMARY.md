@@ -8,6 +8,7 @@
   * [三、接受美学主要探讨的问题](di-yi-bu-fen/3-main-discuss-topic.md)
   * [四、接受美学的代表作家及作品](di-yi-bu-fen/4-authors-novels.md)
   * [五、接受美学与文学批评](di-yi-bu-fen/5-litereture-critisize.md)
+  * [六、接受美学的发展与流变](di-yi-bu-fen/5-litereture-critisize.md)
 * [第二部分](di-er-bu-fen.md)
 * [第三部分](di-san-bu-fen.md)
 * [test](test.md)

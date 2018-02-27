@@ -10,7 +10,7 @@
 
 莎士比亚           |  托尔斯泰
 :-------------------------:|:-------------------------:
-![]<img src="https://github.com/favicon.ico" width="48"> |  ![]<img src="https://github.com/favicon.ico" width="48">
+<img src="https://github.com/favicon.ico" width="48"> |  <img src="https://github.com/favicon.ico" width="48">
 
 
 

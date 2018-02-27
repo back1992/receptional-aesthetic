@@ -25,4 +25,4 @@
 
  ![smiley image size](/assets/Sholokhov-1938.jpg){:height="100px" width="400px"}
 
- <div align=center><img width="150" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Lagerkvist.jpg"/></div>
+ <div align=center><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Lagerkvist.jpg"/></div>

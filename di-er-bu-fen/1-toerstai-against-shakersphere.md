@@ -10,7 +10,7 @@
 
 莎士比亚           |  托尔斯泰
 :-------------------------:|:-------------------------:
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg" width="48"> |  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ilya_Efimovich_Repin_%281844-1930%29_-_Portrait_of_Leo_Tolstoy_%281887%29.jpg" width="48">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg" width="48"> |  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ilya_Efimovich_Repin_%281844-1930%29_-_Portrait_of_Leo_Tolstoy_%281887%29.jpg" width="118">
 
 
 

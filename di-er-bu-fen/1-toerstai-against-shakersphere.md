@@ -10,8 +10,8 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/b/bb/Ilya_Efimovich_Repin_%281844-1930%29_-_Portrait_of_Leo_Tolstoy_%281887%29.jpg =100){:height="100px" width="400px"}
 
-<div style="float:left;border:solid 1px 000;margin:2px;"><img src="http://img.blog.csdn.net/20160616131539493" alt="screenshot" title="screenshot" width="250" height="436" ></div>
-<div style="float:left;border:solid 1px 000;margin:2px;"><img src="http://img.blog.csdn.net/20160616131603337" alt="screenshot" title="screenshot" width="250" height="436" ></div>
+<div style="float:left;border:solid 1px 000;margin:2px;"><img src="http://img.blog.csdn.net/20160616131539493" alt="screenshot" title="screenshot" width="25" height="436" ></div>
+<div style="float:left;border:solid 1px 000;margin:2px;"><img src="http://img.blog.csdn.net/20160616131603337" alt="screenshot" title="screenshot" width="25" height="436" ></div>
 <div style="clear:both;"></div>
 
 <figure class="half">

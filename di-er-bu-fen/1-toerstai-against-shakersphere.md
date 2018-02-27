@@ -11,8 +11,8 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/b/bb/Ilya_Efimovich_Repin_%281844-1930%29_-_Portrait_of_Leo_Tolstoy_%281887%29.jpg =100){:height="100px" width="400px"}
 
 <figure class="half">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ilya_Efimovich_Repin_%281844-1930%29_-_Portrait_of_Leo_Tolstoy_%281887%29.jpg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg" width="30">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ilya_Efimovich_Repin_%281844-1930%29_-_Portrait_of_Leo_Tolstoy_%281887%29.jpg" width="30">
 </figure>
 
 

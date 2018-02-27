@@ -10,19 +10,5 @@
 
 莎士比亚           |  托尔斯泰
 :-------------------------:|:-------------------------:
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg" width="48"> |  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ilya_Efimovich_Repin_%281844-1930%29_-_Portrait_of_Leo_Tolstoy_%281887%29.jpg" width="118">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg" width="130"> |  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ilya_Efimovich_Repin_%281844-1930%29_-_Portrait_of_Leo_Tolstoy_%281887%29.jpg" width="118">
 
-
-
-
-
-莎士比亚           |  托尔斯泰
-:-------------------------:|:-------------------------:
-![](https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg){:height="36px" width="36px"}  |  ![](https://upload.wikimedia.org/wikipedia/commons/b/bb/Ilya_Efimovich_Repin_%281844-1930%29_-_Portrait_of_Leo_Tolstoy_%281887%29.jpg){:height="36px" width="36px"} 
-
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg" align="left" height="48" width="48" >
-
- ![smiley image size](/assets/Sholokhov-1938.jpg){:height="100px" width="400px"}
-
- <div align=center><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Lagerkvist.jpg"/></div>

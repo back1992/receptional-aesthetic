@@ -24,3 +24,5 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg" align="left" height="48" width="48" >
 
  ![smiley image size](/assets/Sholokhov-1938.jpg){:height="100px" width="400px"}
+
+ <div align=center><img width="150" src="https://upload.wikimedia.org/wikipedia/commons/0/04/Lagerkvist.jpg"/></div>

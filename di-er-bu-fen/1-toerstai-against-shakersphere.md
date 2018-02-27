@@ -10,4 +10,4 @@
 
 莎士比亚           |  托尔斯泰
 :-------------------------:|:-------------------------:
-![](https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg)  |  ![](https://upload.wikimedia.org/wikipedia/commons/b/bb/Ilya_Efimovich_Repin_%281844-1930%29_-_Portrait_of_Leo_Tolstoy_%281887%29.jpg) 
+![](https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg　=100x20)  |  ![](https://upload.wikimedia.org/wikipedia/commons/b/bb/Ilya_Efimovich_Repin_%281844-1930%29_-_Portrait_of_Leo_Tolstoy_%281887%29.jpg　=100x20) 

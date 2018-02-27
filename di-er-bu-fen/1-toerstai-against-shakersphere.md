@@ -23,5 +23,5 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg" align="left" height="48" width="48" >
 
- ![smiley](./assets/Ilya_Efimovich_Repin_(1844-1930)_-_Portrait_of_Leo_Tolstoy_(1887).jpg){:height="36px" width="36px"}.
+ ![smiley]('./assets/Sholokhov-1938.jpg'){:height="36px" width="36px"}.
 

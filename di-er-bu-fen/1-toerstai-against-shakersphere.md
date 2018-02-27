@@ -14,6 +14,6 @@
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg)  |  ![]https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg)  |  ![]（https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg)
 
 

@@ -20,6 +20,8 @@
     * [——谈文学接受的期待视野](di-er-bu-fen/2-4-2.md)
   * [五、重新被发现的卡夫卡](di-er-bu-fen/2-5-1.md)
     * [——谈文学接受的滞后现象](di-er-bu-fen/2-5-2.md)
+  * [六、重新被发现的卡夫卡](di-er-bu-fen/2-5-1.md)
+    * [——谈文学接受的滞后现象](di-er-bu-fen/2-5-2.md)
 * [第三部分](di-san-bu-fen.md)
 * [test](test.md)
 * [关于莎士比亚的新话题](di-san-bu-fen/guan-yu-sha-shi-bi-ya-de-xin-hua-ti.md)

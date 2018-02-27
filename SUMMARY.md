@@ -12,6 +12,8 @@
 * [第二部分](di-er-bu-fen.md)
   * [一、托尔斯泰为何否定莎士比亚](di-er-bu-fen/2-1-1.md)
     * [——谈文学接受的差异性与背离性](di-er-bu-fen/2-1-2.md)
+  * [二、托尔斯泰为何否定莎士比亚](di-er-bu-fen/2-1-1.md)
+    * [——谈文学接受的差异性与背离性](di-er-bu-fen/2-1-2.md)
 * [第三部分](di-san-bu-fen.md)
 * [test](test.md)
 * [关于莎士比亚的新话题](di-san-bu-fen/guan-yu-sha-shi-bi-ya-de-xin-hua-ti.md)

@@ -8,15 +8,8 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg)![](https://upload.wikimedia.org/wikipedia/commons/b/bb/Ilya_Efimovich_Repin_%281844-1930%29_-_Portrait_of_Leo_Tolstoy_%281887%29.jpg)
 
-<div style="float:left;border:solid 1px 000;margin:2px;"><img src="http://img.blog.csdn.net/20160616131539493" alt="screenshot" title="screenshot" width="25" height="436" ></div>
-<div style="float:left;border:solid 1px 000;margin:2px;"><img src="http://img.blog.csdn.net/20160616131603337" alt="screenshot" title="screenshot" width="25" height="436" ></div>
-<div style="clear:both;"></div>
 
-<figure class="half">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg" width="30">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ilya_Efimovich_Repin_%281844-1930%29_-_Portrait_of_Leo_Tolstoy_%281887%29.jpg" width="30">
-</figure>
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg" width="42"/><img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg" width="42"/> 
 
 
 

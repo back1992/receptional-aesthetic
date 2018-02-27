@@ -12,4 +12,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg" width="42"/><img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg" width="42"/> 
 
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg)  |  ![]https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg)
+
 

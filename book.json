@@ -1,5 +1,5 @@
 {
-  "plugins": ["autocover", "image-captions", "video", "html5-video"],
+  "plugins": ["autocover", "image-captions", "video", "html5-video","youtube"],
   "pluginsConfig": {
     "autocover": {
     "title": "接受美学论谭",

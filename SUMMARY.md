@@ -24,6 +24,8 @@
     * [——谈文艺的多种功能与接受的价值取向](di-er-bu-fen/2-6-2.md)
   * [七、从艺术客体到审美对象](di-er-bu-fen/2-7-1.md)
     * [——谈文学接受的心理机制](di-er-bu-fen/2-7-2.md)
+  * [八、维纳斯下嫁寻常百姓人家](di-er-bu-fen/2-8-1.md)
+    * [——谈商品经济与大众接受心理](di-er-bu-fen/2-8-2.md)
 * [第三部分](di-san-bu-fen.md)
 * [test](test.md)
 * [关于莎士比亚的新话题](di-san-bu-fen/guan-yu-sha-shi-bi-ya-de-xin-hua-ti.md)

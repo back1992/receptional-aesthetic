@@ -10,10 +10,10 @@
 
 &emsp;&emsp;还需要说明的是，本书之所以能顺利出版，是与江西高校出版社的刘小苏和贺林香的大力帮助分不开的，在此谨向他们表示衷心感谢。
 
-林一民
+
+<div style="text-align: right"> 林一民
 
 于南昌大学
 
-1995.6.10
+1995.6.10 </div>
 
-<div style="text-align: right"> your-text-here </div>

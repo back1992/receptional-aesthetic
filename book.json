@@ -1,5 +1,5 @@
 {
-  "plugins": ["autocover","local-video", "bilibili","video-7dtime", "image-captions", "video", "html5-video","youtube"],
+  "plugins": ["autocover","mermaid","local-video", "bilibili","video-7dtime", "image-captions", "video", "html5-video","youtube"],
   "pluginsConfig": {
     "autocover": {
     "title": "接受美学论谭",

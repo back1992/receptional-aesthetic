@@ -31,6 +31,6 @@
   * [十、文学作品的内在魅力来自何方？](di-er-bu-fen/2-10-1.md)
     * [——谈文本的召唤结构](di-er-bu-fen/2-10-2.md)
 * [第三部分](di-san-bu-fen.md)
-* [test](test.md)
-* [关于莎士比亚的新话题](di-san-bu-fen/guan-yu-sha-shi-bi-ya-de-xin-hua-ti.md)
+  * [关于莎士比亚的新话题](di-san-bu-fen/guan-yu-sha-shi-bi-ya-de-xin-hua-ti.md)
+    * [test](test.md)
 

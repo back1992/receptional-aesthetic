@@ -9,5 +9,5 @@ When {% math %}a \ne 0{% endmath %}, there are two solutions to {% math %}(ax^2 
 
 
 {% math %}S = A + R{% endmath %}
-{% math %} $\sum_{i=1}^n a_i=0$ $f(x)=x^{x^x}$. {% endmath %}
+{% math %} x^{x^x} {% endmath %}
 

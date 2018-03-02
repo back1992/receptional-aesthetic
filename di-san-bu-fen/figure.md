@@ -13,4 +13,4 @@ When {% math %}a \ne 0{% endmath %}, there are two solutions to {% math %}(ax^2 
 
 $$\int_{-\infty}^\infty g(x) dx$$
 $$x^{x^x}$$
-$$S = A_{q} + R$$
+$$ S = ( 0 - A_{恒}　)　$$

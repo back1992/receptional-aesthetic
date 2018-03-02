@@ -12,3 +12,4 @@ When {% math %}a \ne 0{% endmath %}, there are two solutions to {% math %}(ax^2 
 {% math %} x^{x^x} {% endmath %}
 
 $$\int_{-\infty}^\infty g(x) dx$$
+$$x^{x^x}$$

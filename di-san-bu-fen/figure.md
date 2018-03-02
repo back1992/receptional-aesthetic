@@ -5,10 +5,4 @@
 | 4 | 期望水准 | 正——静止——期望水准反面失望 |
 
 
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/Alf_CF84MQ4/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-<img src="http://img.youtube.com/vi/Alf_CF84MQ4/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
+When {% math %}a \ne 0{% endmath %}, there are two solutions to {% math %}(ax^2 + bx + c = 0){% endmath %} and they are {% math %}x = {-b \pm \sqrt{b^2-4ac} \over 2a}.{% endmath %}

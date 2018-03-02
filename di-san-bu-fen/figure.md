@@ -19,3 +19,7 @@ $$
 \quad   \approx R_{-\infty}-R_{+\infty}
  
 $$
+
+$$
+S \approx R
+$$

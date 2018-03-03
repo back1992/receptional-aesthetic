@@ -9,6 +9,7 @@
   * [四、接受美学的代表作家及作品](di-yi-bu-fen/4-authors-novels.md)
   * [五、接受美学与文学批评](di-yi-bu-fen/5-litereture-critisize.md)
   * [六、接受美学的发展与流变](di-yi-bu-fen/6-change-and-develop.md)
+  * [七、附录 格林的《接受美学研究概论》（摘要）](di-yi-bu-fen/qi-3001-fu-lu.md)
 * [第二部分](di-er-bu-fen.md)
   * [一、托尔斯泰为何否定莎士比亚](di-er-bu-fen/2-1-1.md)
     * [——谈文学接受的差异性与背离性](di-er-bu-fen/2-1-2.md)
@@ -35,4 +36,19 @@
   * [关于莎士比亚的新话题](di-san-bu-fen/guan-yu-sha-shi-bi-ya-de-xin-hua-ti.md)
     * [test](test.md)
     * [figure](di-san-bu-fen/figure.md)
+  * [一、简论拜伦诗歌](di-san-bu-fen/yi-3001-jian-lun-bai-lun-shi-ge.md)
+  * [二、浅论肖洛霍夫创作特色](di-san-bu-fen/er-3001-qian-lun-xiao-luo-huo-fu-chuang-zuo-te-se.md)
+  * 三、《老人与海》和《一个人的遭遇》比较研究
+  * 四、关于莎士比亚的新话题
+  * 五、科学主义与人文视野
+  * 六、后现代思潮和文学艺术
+  * 七、表现主义的美学体现   ——读巴·拉格维斯的《侏儒》
+  * 八、梅特林克及其神秘主义象征剧
+  * 九、 人的颂歌    ——《海上劳工》读后
+  * 十、托尔斯泰的肖像描写艺术
+  * 十一、历史巨变中的哥萨克写真
+  * 十二、一条“泡在油里的沙丁鱼”        ——读肖斯塔科维奇音乐作品
+  * 十三、普希金笔下的多余人形象
+  * 十四、果戈里和《死魂灵》
+  * 十五、别林斯基论翻译
 

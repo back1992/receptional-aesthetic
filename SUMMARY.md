@@ -6,9 +6,23 @@
   * [一、接受美学的缘起和现状](di-yi-bu-fen/1-yi-3001-jie-shou-mei-xue-de-yuan-qi-he-xian-zhuang.md)
   * [二、接受美学的文学观念](di-yi-bu-fen/2-er-3001-jie-shou-mei-xue-de-wen-xue-guan-nian.md)
   * [三、接受美学主要探讨的问题](di-yi-bu-fen/3-main-discuss-topic.md)
+    * 1.作品与读者的关系问题
+    * 2.文学接受活动与作品的内在结构
+    * 3.文学接受的心理机制
+    * 4.审美接受问题
   * [四、接受美学的代表作家及作品](di-yi-bu-fen/4-authors-novels.md)
+    * 1.姚斯及其《文学史作为向文学理论的挑战》
+    * 2.伊瑟尔及其《文本与读者相互关系》
   * [五、接受美学与文学批评](di-yi-bu-fen/5-litereture-critisize.md)
+    * 1.文学批评的历史回顾
+    * 2.接受美学的文学批评
+    * 3.接受美学对阅读过程的研究
+    * 4.接受美学对接受背景的研究
+    * 5.对作者与读者互动关系的研究
+    * 6.接受美学批评理论的局限性
   * [六、接受美学的发展与流变](di-yi-bu-fen/6-change-and-develop.md)
+    * 1.东欧和前苏联对接受美学的研究
+    * 2.美国的读者反应批评学派
   * [七、附录 格林的《接受美学研究概论》（摘要）](di-yi-bu-fen/qi-3001-fu-lu.md)
 * [第二部分](di-er-bu-fen.md)
   * [一、托尔斯泰为何否定莎士比亚](di-er-bu-fen/2-1-1.md)

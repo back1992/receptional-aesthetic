@@ -61,7 +61,7 @@
   * [九、人的颂歌    ——《海上劳工》读后](di-san-bu-fen/ren-de-song-ge-2014-2014-yu-guo-ren-dao-zhu-yi-san-bu-qu-300a-hai-shang-lao-gong-300b-du-hou.md)
   * 十、托尔斯泰的肖像描写艺术
   * 十一、历史巨变中的哥萨克写真
-  * 十二、一条“泡在油里的沙丁鱼”        ——读肖斯塔科维奇音乐作品
+  * [十二、一条“泡在油里的沙丁鱼”        ——读肖斯塔科维奇音乐作品](di-san-bu-fen/yi-tiao-201c-pao-zai-you-li-de-sha-ding-yu-201d.md)
   * 十三、普希金笔下的多余人形象
   * [十四、果戈里和《死魂灵》](di-san-bu-fen/guo-ge-li-he-300a-si-hun-ling-300b.md)
   * [十五、别林斯基论翻译](di-san-bu-fen/shi-wu-3001-bie-lin-si-ji-lun-fan-yi.md)

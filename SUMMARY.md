@@ -66,4 +66,5 @@
   * [关于莎士比亚的新话题](di-san-bu-fen/guan-yu-sha-shi-bi-ya-de-xin-hua-ti.md)
     * [test](test.md)
     * [figure](di-san-bu-fen/figure.md)
+  * [newtest](di-san-bu-fen/newtest.md)
 

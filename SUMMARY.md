@@ -65,4 +65,8 @@
   * 十三、普希金笔下的多余人形象
   * [十四、果戈里和《死魂灵》](di-san-bu-fen/guo-ge-li-he-300a-si-hun-ling-300b.md)
   * [十五、别林斯基论翻译](di-san-bu-fen/shi-wu-3001-bie-lin-si-ji-lun-fan-yi.md)
+  * [第四部分:外国文学评论](di-san-bu-fen.md)
+  * [关于莎士比亚的新话题](di-san-bu-fen/guan-yu-sha-shi-bi-ya-de-xin-hua-ti.md)
+    * [test](test.md)
+    * [figure]
 

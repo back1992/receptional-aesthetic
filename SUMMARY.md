@@ -58,7 +58,7 @@
   * 六、后现代思潮和文学艺术
   * [七、表现主义的美学体现   ——读巴·拉格维斯的《侏儒》](di-san-bu-fen/biao-xian-zhu-yi-de-mei-xue-ti-xian-2014-2014-du-5df4b7-la-ge-wei-si-de-300a-zhu-ru-300b.md)
   * 八、梅特林克及其神秘主义象征剧
-  * 九、 人的颂歌    ——《海上劳工》读后
+  * [九、人的颂歌    ——《海上劳工》读后](di-san-bu-fen/ren-de-song-ge-2014-2014-yu-guo-ren-dao-zhu-yi-san-bu-qu-300a-hai-shang-lao-gong-300b-du-hou.md)
   * 十、托尔斯泰的肖像描写艺术
   * 十一、历史巨变中的哥萨克写真
   * 十二、一条“泡在油里的沙丁鱼”        ——读肖斯塔科维奇音乐作品

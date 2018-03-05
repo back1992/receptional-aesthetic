@@ -53,7 +53,7 @@
   * [一、简论拜伦诗歌](di-san-bu-fen/jian-lun-bai-lun-shi-ge.md)
   * [二、浅论肖洛霍夫创作特色](di-san-bu-fen/e-guo-zuo-jia-xiao-luo-huo-fu-de-chuang-zuo-te-se.md)
   * [三、《老人与海》和《一个人的遭遇》比较研究](di-san-bu-fen/san-3001-300a-lao-ren-yu-hai-300b-he-300a-yi-ge-ren-de-zao-yu-300b-bi-jiao-yan-jiu.md)
-  * [四、关于莎士比亚的新话题](di-san-bu-fen/si-3001-guan-yu-sha-shi-bi-ya-de-xin-hua-ti.md)
+  * [四、关于莎士比亚的新话题](di-san-bu-fen/guan-yu-sha-shi-bi-ya-de-xin-hua-ti.md)
   * 五、科学主义与人文视野
   * 六、后现代思潮和文学艺术
   * [七、表现主义的美学体现   ——读巴·拉格维斯的《侏儒》](di-san-bu-fen/biao-xian-zhu-yi-de-mei-xue-ti-xian-2014-2014-du-5df4b7-la-ge-wei-si-de-300a-zhu-ru-300b.md)

@@ -56,7 +56,7 @@
   * [四、关于莎士比亚的新话题](di-san-bu-fen/si-3001-guan-yu-sha-shi-bi-ya-de-xin-hua-ti.md)
   * 五、科学主义与人文视野
   * 六、后现代思潮和文学艺术
-  * 七、表现主义的美学体现   ——读巴·拉格维斯的《侏儒》
+  * [七、表现主义的美学体现   ——读巴·拉格维斯的《侏儒》](di-san-bu-fen/qi-3001-biao-xian-zhu-yi-de-mei-xue-ti-xian-2014-2014-du-5df4b7-la-ge-wei-si-de-300a-zhu-ru-300b.md)
   * 八、梅特林克及其神秘主义象征剧
   * 九、 人的颂歌    ——《海上劳工》读后
   * 十、托尔斯泰的肖像描写艺术

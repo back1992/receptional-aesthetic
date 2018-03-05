@@ -47,9 +47,6 @@
     * [——谈文本的召唤结构](di-er-bu-fen/2-10-2.md)
   * [后记](di-er-bu-fen/houji.md)
 * [第三部分:外国文学评论](di-san-bu-fen.md)
-  * [关于莎士比亚的新话题](di-san-bu-fen/guan-yu-sha-shi-bi-ya-de-xin-hua-ti.md)
-    * [test](test.md)
-    * [figure](di-san-bu-fen/figure.md)
   * [一、简论拜伦诗歌](di-san-bu-fen/jian-lun-bai-lun-shi-ge.md)
   * [二、浅论肖洛霍夫创作特色](di-san-bu-fen/e-guo-zuo-jia-xiao-luo-huo-fu-de-chuang-zuo-te-se.md)
   * [三、《老人与海》和《一个人的遭遇》比较研究](di-san-bu-fen/lao-ren-yu-hai-300b-he-300a-yi-ge-ren-de-zao-yu-300b-bi-jiao-yan-jiu.md)
@@ -68,4 +65,5 @@
 * [第四部分:测试](di-san-bu-fen.md)
   * [关于莎士比亚的新话题](di-san-bu-fen/guan-yu-sha-shi-bi-ya-de-xin-hua-ti.md)
     * [test](test.md)
+    * [figure](di-san-bu-fen/figure.md)
 

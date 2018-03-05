@@ -52,7 +52,7 @@
     * [figure](di-san-bu-fen/figure.md)
   * [一、简论拜伦诗歌](di-san-bu-fen/jian-lun-bai-lun-shi-ge.md)
   * [二、浅论肖洛霍夫创作特色](di-san-bu-fen/e-guo-zuo-jia-xiao-luo-huo-fu-de-chuang-zuo-te-se.md)
-  * [三、《老人与海》和《一个人的遭遇》比较研究](di-san-bu-fen/san-3001-300a-lao-ren-yu-hai-300b-he-300a-yi-ge-ren-de-zao-yu-300b-bi-jiao-yan-jiu.md)
+  * [三、《老人与海》和《一个人的遭遇》比较研究](di-san-bu-fen/lao-ren-yu-hai-300b-he-300a-yi-ge-ren-de-zao-yu-300b-bi-jiao-yan-jiu.md)
   * [四、关于莎士比亚的新话题](di-san-bu-fen/guan-yu-sha-shi-bi-ya-de-xin-hua-ti.md)
   * [五、科学主义与人文视野](di-san-bu-fen/ke-xue-zhu-yi-yu-ren-wen-shi-ye.md)
   * 六、后现代思潮和文学艺术

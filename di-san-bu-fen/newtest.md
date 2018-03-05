@@ -1,14 +1,10 @@
 fsgafsg
 
-
-
 sdf
 
-gsfdgsdf
+gsfd[^6]gsdf
 
-
-
-dsfgdfsgdfsgfas
+dsfgdfsgd[^5]fsgfas
 
 sfdgfsdgsdfg[^1]
 
@@ -19,4 +15,8 @@ sfdgfsdgsdfg[^1]
 [^3]: Enter footnote here.[^4]
 
 [^4]: Enter footnote here.
+
+[^5]: Enter footnote here.
+
+[^6]: Enter footnote here.
 

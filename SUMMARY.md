@@ -48,20 +48,19 @@
     * [——谈文本的召唤结构](di-er-bu-fen/2-10-2.md)
   * [后记](di-er-bu-fen/houji.md)
 * [第三部分:外国文学评论](di-san-bu-fen.md)
-  * [一、简论拜伦诗歌](di-san-bu-fen/jian-lun-bai-lun-shi-ge.md)
-  * [二、浅论肖洛霍夫创作特色](di-san-bu-fen/e-guo-zuo-jia-xiao-luo-huo-fu-de-chuang-zuo-te-se.md)
-  * [三、《老人与海》和《一个人的遭遇》比较研究](di-san-bu-fen/lao-ren-yu-hai-300b-he-300a-yi-ge-ren-de-zao-yu-300b-bi-jiao-yan-jiu.md)
-  * [四、关于莎士比亚的新话题](di-san-bu-fen/guan-yu-sha-shi-bi-ya-de-xin-hua-ti.md)
   * [五、科学主义与人文视野](di-san-bu-fen/ke-xue-zhu-yi-yu-ren-wen-shi-ye.md)
-  * 六、后现代思潮和文学艺术
+  * [六、后现代思潮和文学艺术](di-san-bu-fen/liu-3001-hou-xian-dai-si-chao-he-wen-xue-yi-zhu.md)
+  * [四、关于莎士比亚的新话题](di-san-bu-fen/guan-yu-sha-shi-bi-ya-de-xin-hua-ti.md)
+  * [一、简论拜伦诗歌](di-san-bu-fen/jian-lun-bai-lun-shi-ge.md)
+  * [九、人的颂歌    ——《海上劳工》读后](di-san-bu-fen/ren-de-song-ge-2014-2014-yu-guo-ren-dao-zhu-yi-san-bu-qu-300a-hai-shang-lao-gong-300b-du-hou.md)
+  * [三、《老人与海》和《一个人的遭遇》比较研究](di-san-bu-fen/lao-ren-yu-hai-300b-he-300a-yi-ge-ren-de-zao-yu-300b-bi-jiao-yan-jiu.md)
   * [七、表现主义的美学体现   ——读巴·拉格维斯的《侏儒》](di-san-bu-fen/biao-xian-zhu-yi-de-mei-xue-ti-xian-2014-2014-du-5df4b7-la-ge-wei-si-de-300a-zhu-ru-300b.md)
   * 八、梅特林克及其神秘主义象征剧
-  * [九、人的颂歌    ——《海上劳工》读后](di-san-bu-fen/ren-de-song-ge-2014-2014-yu-guo-ren-dao-zhu-yi-san-bu-qu-300a-hai-shang-lao-gong-300b-du-hou.md)
-  * 十、托尔斯泰的肖像描写艺术
-  * 十一、历史巨变中的哥萨克写真
-  * [十二、一条“泡在油里的沙丁鱼”        ——读肖斯塔科维奇音乐作品](di-san-bu-fen/yi-tiao-201c-pao-zai-you-li-de-sha-ding-yu-201d.md)
   * 十三、普希金笔下的多余人形象
   * [十四、果戈里和《死魂灵》](di-san-bu-fen/guo-ge-li-he-300a-si-hun-ling-300b.md)
+  * 十、托尔斯泰的肖像描写艺术
+  * [二、浅论肖洛霍夫创作特色](di-san-bu-fen/e-guo-zuo-jia-xiao-luo-huo-fu-de-chuang-zuo-te-se.md)
+  * [十一、历史巨变中的哥萨克写真](di-san-bu-fen/shi-yi-3001-li-shi-ju-bian-zhong-de-ge-sa-ke-xie-zhen.md)
   * [十五、别林斯基论翻译](di-san-bu-fen/shi-wu-3001-bie-lin-si-ji-lun-fan-yi.md)
 * [第四部分:测试](di-san-bu-fen.md)
   * [关于莎士比亚的新话题](di-san-bu-fen/guan-yu-sha-shi-bi-ya-de-xin-hua-ti.md)

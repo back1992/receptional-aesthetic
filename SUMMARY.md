@@ -24,7 +24,7 @@
     * 1.东欧和前苏联对接受美学的研究
     * 2.美国的读者反应批评学派
   * [七、附录 格林的《接受美学研究概论》（摘要）](di-yi-bu-fen/qi-3001-fu-lu.md)
-* [第二部分:接受美学论文选](di-er-bu-fen.md)
+* [第二篇:接受美学论文选](di-er-bu-fen.md)
   * [一、托尔斯泰为何否定莎士比亚](di-er-bu-fen/2-1-1.md)
     * [——谈文学接受的差异性与背离性](di-er-bu-fen/2-1-2.md)
     * [文献索引](di-er-bu-fen/2-1-3.md)
@@ -47,7 +47,7 @@
   * [十、文学作品的内在魅力来自何方？](di-er-bu-fen/2-10-1.md)
     * [——谈文本的召唤结构](di-er-bu-fen/2-10-2.md)
   * [后记](di-er-bu-fen/houji.md)
-* [第三部分:外国文学评论](di-san-bu-fen.md)
+* [第三篇:外国文学评论](di-san-bu-fen.md)
   * [五、科学主义与人文视野](di-san-bu-fen/ke-xue-zhu-yi-yu-ren-wen-shi-ye.md)
   * [六、后现代思潮和文学艺术](di-san-bu-fen/liu-3001-hou-xian-dai-si-chao-he-wen-xue-yi-zhu.md)
   * [四、关于莎士比亚的新话题](di-san-bu-fen/guan-yu-sha-shi-bi-ya-de-xin-hua-ti.md)

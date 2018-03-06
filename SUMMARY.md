@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [序言](chapter1.md)
-* [第一部分:接受美学理论解读](di-yi-bu-fen.md)
+* [第一篇:接受美学理论解读](di-yi-bu-fen.md)
   * [一、接受美学的缘起和现状](di-yi-bu-fen/1-yi-3001-jie-shou-mei-xue-de-yuan-qi-he-xian-zhuang.md)
   * [二、接受美学的文学观念](di-yi-bu-fen/2-er-3001-jie-shou-mei-xue-de-wen-xue-guan-nian.md)
   * [三、接受美学主要探讨的问题](di-yi-bu-fen/3-main-discuss-topic.md)

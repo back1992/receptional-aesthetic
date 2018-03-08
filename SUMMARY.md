@@ -51,6 +51,7 @@
     * [文献索引](di-er-bu-fen/2-8-3.md)
   * [九、作品能够独立于读者意识而存在吗？](di-er-bu-fen/2-9-1.md)
     * [——谈文学接受的主观定势](di-er-bu-fen/2-9-2.md)
+    * [文献索引](di-er-bu-fen/2-9-3.md)
   * [十、文学作品的内在魅力来自何方？](di-er-bu-fen/2-10-1.md)
     * [——谈文本的召唤结构](di-er-bu-fen/2-10-2.md)
   * [后记](di-er-bu-fen/houji.md)

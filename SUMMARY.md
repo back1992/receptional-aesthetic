@@ -54,6 +54,7 @@
     * [文献索引](di-er-bu-fen/2-9-3.md)
   * [十、文学作品的内在魅力来自何方？](di-er-bu-fen/2-10-1.md)
     * [——谈文本的召唤结构](di-er-bu-fen/2-10-2.md)
+    * [文献索引](di-er-bu-fen/2-10-3.md)
   * [后记](di-er-bu-fen/houji.md)
 * [第三篇:外国文学评论](di-san-bu-fen.md)
   * [五、科学主义与人文视野](di-san-bu-fen/ke-xue-zhu-yi-yu-ren-wen-shi-ye.md)

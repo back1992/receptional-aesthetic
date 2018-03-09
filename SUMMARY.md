@@ -14,7 +14,7 @@
     * [4.1 姚斯及其《文学史作为向文学理论的挑战》](di-yi-bu-fen/4-authors-novels/1yao-si-ji-qi-300a-wen-xue-shi-zuo-wei-xiang-wen-xue-li-lun-de-tiao-zhan-300b.md)
     * [4.2 伊瑟尔及其《文本与读者相互关系》](di-yi-bu-fen/4-authors-novels/2yi-se-er-ji-qi-300a-wen-ben-yu-du-zhe-xiang-hu-guan-xi-300b.md)
   * [五、接受美学与文学批评](di-yi-bu-fen/5-litereture-critisize.md)
-    * 1.文学批评的历史回顾
+    * [1.文学批评的历史回顾](di-yi-bu-fen/5-litereture-critisize/1wen-xue-pi-ping-de-li-shi-hui-gu.md)
     * 2.接受美学的文学批评
     * 3.接受美学对阅读过程的研究
     * 4.接受美学对接受背景的研究

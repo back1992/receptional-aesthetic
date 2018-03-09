@@ -15,7 +15,7 @@
     * [4.2 伊瑟尔及其《文本与读者相互关系》](di-yi-bu-fen/4-authors-novels/2yi-se-er-ji-qi-300a-wen-ben-yu-du-zhe-xiang-hu-guan-xi-300b.md)
   * [五、接受美学与文学批评](di-yi-bu-fen/5-litereture-critisize.md)
     * [1.文学批评的历史回顾](di-yi-bu-fen/5-litereture-critisize/1wen-xue-pi-ping-de-li-shi-hui-gu.md)
-    * 2.接受美学的文学批评
+    * [2.接受美学的文学批评](di-yi-bu-fen/5-litereture-critisize/2jie-shou-mei-xue-de-wen-xue-pi-ping.md)
     * 3.接受美学对阅读过程的研究
     * 4.接受美学对接受背景的研究
     * 5.对作者与读者互动关系的研究

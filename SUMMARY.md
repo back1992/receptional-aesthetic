@@ -9,7 +9,7 @@
     * [1.作品与读者的关系问题](di-yi-bu-fen/3-main-discuss-topic/1zuo-pin-yu-du-zhe-de-guan-xi-wen-ti.md)
     * [2.文学接受活动与作品的内在结构](di-yi-bu-fen/3-main-discuss-topic/2wen-xue-jie-shou-huo-dong-yu-zuo-pin-de-nei-zai-jie-gou.md)
     * [3.文学接受的心理机制](di-yi-bu-fen/3-main-discuss-topic/3wen-xue-jie-shou-de-xin-li-ji-zhi.md)
-    * 4.审美接受问题
+    * [4.审美接受问题](di-yi-bu-fen/3-main-discuss-topic/4shen-mei-jie-shou-wen-ti.md)
   * [四、接受美学的代表作家及作品](di-yi-bu-fen/4-authors-novels.md)
     * 1.姚斯及其《文学史作为向文学理论的挑战》
     * 2.伊瑟尔及其《文本与读者相互关系》

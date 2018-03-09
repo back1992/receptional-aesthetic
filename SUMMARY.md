@@ -14,12 +14,12 @@
     * [4.1 姚斯及其《文学史作为向文学理论的挑战》](di-yi-bu-fen/4-authors-novels/1yao-si-ji-qi-300a-wen-xue-shi-zuo-wei-xiang-wen-xue-li-lun-de-tiao-zhan-300b.md)
     * [4.2 伊瑟尔及其《文本与读者相互关系》](di-yi-bu-fen/4-authors-novels/2yi-se-er-ji-qi-300a-wen-ben-yu-du-zhe-xiang-hu-guan-xi-300b.md)
   * [五、接受美学与文学批评](di-yi-bu-fen/5-litereture-critisize/0.md)
-    * [1.文学批评的历史回顾](di-yi-bu-fen/5-litereture-critisize/1wen-xue-pi-ping-de-li-shi-hui-gu.md)
-    * [2.接受美学的文学批评](di-yi-bu-fen/5-litereture-critisize/2jie-shou-mei-xue-de-wen-xue-pi-ping.md)
-    * [3.接受美学对阅读过程的研究](di-yi-bu-fen/5-litereture-critisize/3jie-shou-mei-xue-dui-yue-du-guo-cheng-de-yan-jiu.md)
-    * [4.接受美学对接受背景的研究](di-yi-bu-fen/5-litereture-critisize/4jie-shou-mei-xue-dui-jie-shou-bei-jing-de-yan-jiu.md)
-    * [5.对作者与读者互动关系的研究](di-yi-bu-fen/5-litereture-critisize/5dui-zuo-zhe-yu-du-zhe-hu-dong-guan-xi-de-yan-jiu.md)
-    * [6.接受美学批评理论的局限性](di-yi-bu-fen/5-litereture-critisize/6jie-shou-mei-xue-pi-ping-li-lun-de-ju-xian-xing.md)
+    * [5.1 文学批评的历史回顾](di-yi-bu-fen/5-litereture-critisize/1wen-xue-pi-ping-de-li-shi-hui-gu.md)
+    * [5.2 接受美学的文学批评](di-yi-bu-fen/5-litereture-critisize/2jie-shou-mei-xue-de-wen-xue-pi-ping.md)
+    * [5.3 接受美学对阅读过程的研究](di-yi-bu-fen/5-litereture-critisize/3jie-shou-mei-xue-dui-yue-du-guo-cheng-de-yan-jiu.md)
+    * [5.4 接受美学对接受背景的研究](di-yi-bu-fen/5-litereture-critisize/4jie-shou-mei-xue-dui-jie-shou-bei-jing-de-yan-jiu.md)
+    * [5.5 对作者与读者互动关系的研究](di-yi-bu-fen/5-litereture-critisize/5dui-zuo-zhe-yu-du-zhe-hu-dong-guan-xi-de-yan-jiu.md)
+    * [5.6 接受美学批评理论的局限性](di-yi-bu-fen/5-litereture-critisize/6jie-shou-mei-xue-pi-ping-li-lun-de-ju-xian-xing.md)
   * [六、接受美学的发展与流变](di-yi-bu-fen/6-change-and-develop.md)
     * 1.东欧和前苏联对接受美学的研究
     * 2.美国的读者反应批评学派

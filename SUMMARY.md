@@ -6,7 +6,7 @@
   * [一、接受美学的缘起和现状](di-yi-bu-fen/1-yi-3001-jie-shou-mei-xue-de-yuan-qi-he-xian-zhuang.md)
   * [二、接受美学的文学观念](di-yi-bu-fen/2-er-3001-jie-shou-mei-xue-de-wen-xue-guan-nian.md)
   * [三、接受美学主要探讨的问题](di-yi-bu-fen/3-main-discuss-topic.md)
-    * 1.作品与读者的关系问题
+    * [1.作品与读者的关系问题](di-yi-bu-fen/3-main-discuss-topic/1zuo-pin-yu-du-zhe-de-guan-xi-wen-ti.md)
     * 2.文学接受活动与作品的内在结构
     * 3.文学接受的心理机制
     * 4.审美接受问题

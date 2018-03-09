@@ -23,7 +23,8 @@
   * 六、接受美学的发展与流变
     * [1.东欧和前苏联对接受美学的研究](di-yi-bu-fen/6-change-and-develop/1dong-ou-he-qian-su-lian-dui-jie-shou-mei-xue-de-yan-jiu.md)
     * [2.美国的读者反应批评学派](di-yi-bu-fen/6-change-and-develop/2mei-guo-de-du-zhe-fan-ying-pi-ping-xue-pai.md)
-  * [七、附录 格林的《接受美学研究概论》（摘要）](di-yi-bu-fen/qi-3001-fu-lu.md)
+  * [七、附录 格林的《接受美学研究概论》（摘要）](di-yi-bu-fen/7-attachments/7-0.md)
+    * [7.1 文学批评的历史回顾](di-yi-bu-fen/7-attachments/7-1.md)
 * [第二篇:接受美学论文选](di-er-bu-fen.md)
   * [一、托尔斯泰为何否定莎士比亚](di-er-bu-fen/2-1-1.md)
     * [——谈文学接受的差异性与背离性](di-er-bu-fen/2-1-2.md)

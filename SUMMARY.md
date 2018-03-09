@@ -12,7 +12,7 @@
     * [3.4 审美接受问题](di-yi-bu-fen/3-main-discuss-topic/4shen-mei-jie-shou-wen-ti.md)
   * [四、接受美学的代表作家及作品](di-yi-bu-fen/4-authors-novels.md)
     * 1.姚斯及其《文学史作为向文学理论的挑战》
-    * 2.伊瑟尔及其《文本与读者相互关系》
+    * [2.伊瑟尔及其《文本与读者相互关系》](di-yi-bu-fen/4-authors-novels/2yi-se-er-ji-qi-300a-wen-ben-yu-du-zhe-xiang-hu-guan-xi-300b.md)
   * [五、接受美学与文学批评](di-yi-bu-fen/5-litereture-critisize.md)
     * 1.文学批评的历史回顾
     * 2.接受美学的文学批评

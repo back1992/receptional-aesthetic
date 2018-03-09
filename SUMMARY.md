@@ -17,7 +17,7 @@
     * [1.文学批评的历史回顾](di-yi-bu-fen/5-litereture-critisize/1wen-xue-pi-ping-de-li-shi-hui-gu.md)
     * [2.接受美学的文学批评](di-yi-bu-fen/5-litereture-critisize/2jie-shou-mei-xue-de-wen-xue-pi-ping.md)
     * [3.接受美学对阅读过程的研究](di-yi-bu-fen/5-litereture-critisize/3jie-shou-mei-xue-dui-yue-du-guo-cheng-de-yan-jiu.md)
-    * 4.接受美学对接受背景的研究
+    * [4.接受美学对接受背景的研究](di-yi-bu-fen/5-litereture-critisize/4jie-shou-mei-xue-dui-jie-shou-bei-jing-de-yan-jiu.md)
     * 5.对作者与读者互动关系的研究
     * 6.接受美学批评理论的局限性
   * [六、接受美学的发展与流变](di-yi-bu-fen/6-change-and-develop.md)

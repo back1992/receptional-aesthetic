@@ -21,7 +21,7 @@
     * [5.5 对作者与读者互动关系的研究](di-yi-bu-fen/5-litereture-critisize/5dui-zuo-zhe-yu-du-zhe-hu-dong-guan-xi-de-yan-jiu.md)
     * [5.6 接受美学批评理论的局限性](di-yi-bu-fen/5-litereture-critisize/6jie-shou-mei-xue-pi-ping-li-lun-de-ju-xian-xing.md)
   * [六、接受美学的发展与流变](di-yi-bu-fen/6-change-and-develop.md)
-    * 1.东欧和前苏联对接受美学的研究
+    * [1.东欧和前苏联对接受美学的研究](di-yi-bu-fen/6-change-and-develop/1dong-ou-he-qian-su-lian-dui-jie-shou-mei-xue-de-yan-jiu.md)
     * [2.美国的读者反应批评学派](di-yi-bu-fen/6-change-and-develop/2mei-guo-de-du-zhe-fan-ying-pi-ping-xue-pai.md)
   * [七、附录 格林的《接受美学研究概论》（摘要）](di-yi-bu-fen/qi-3001-fu-lu.md)
 * [第二篇:接受美学论文选](di-er-bu-fen.md)

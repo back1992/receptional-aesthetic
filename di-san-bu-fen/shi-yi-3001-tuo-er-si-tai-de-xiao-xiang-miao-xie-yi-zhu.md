@@ -1,109 +1,3 @@
-  
-@font-face{  
-font-family:"Times New Roman";  
-}  
-  
-@font-face{  
-font-family:"宋体";  
-}  
-  
-@font-face{  
-font-family:"Arial Unicode MS";  
-}  
-  
-@font-face{  
-font-family:"Helvetica Neue";  
-}  
-  
-@font-face{  
-font-family:"仿宋";  
-}  
-  
-p.MsoNormal{  
-mso-style-name:正文;  
-mso-style-parent:"";  
-margin-top:0.0000pt;  
-margin-right:0.0000pt;  
-margin-bottom:0.0000pt;  
-margin-left:0.0000pt;  
-text-indent:0.0000pt;  
-padding:0pt 0pt 0pt 0pt ;  
-mso-pagination:widow-orphan;  
-text-align:left;  
-font-family:'Times New Roman';  
-mso-fareast-font-family:'Arial Unicode MS';  
-letter-spacing:0.0000pt;  
-font-size:12.0000pt;  
-}  
-  
-h3{  
-mso-style-name:"标题 3";  
-mso-style-noshow:yes;  
-mso-style-next:正文;  
-margin-top:13.0000pt;  
-margin-right:0.0000pt;  
-margin-bottom:13.0000pt;  
-margin-left:0.0000pt;  
-mso-para-margin-top:0.0000gd;  
-mso-para-margin-bottom:0.0000gd;  
-text-indent:0.0000pt;  
-padding:0pt 0pt 0pt 0pt ;  
-page-break-after:avoid;  
-mso-pagination:widow-orphan lines-together;  
-text-align:left;  
-mso-outline-level:3;  
-line-height:172%;  
-font-family:'Times New Roman';  
-mso-fareast-font-family:'Arial Unicode MS';  
-letter-spacing:0.0000pt;  
-font-weight:bold;  
-font-size:16.0000pt;  
-}  
-  
-p.15{  
-mso-style-name:正文1;  
-margin-top:0.0000pt;  
-margin-right:0.0000pt;  
-margin-bottom:0.0000pt;  
-margin-left:0.0000pt;  
-text-indent:0.0000pt;  
-padding:0pt 0pt 0pt 0pt ;  
-mso-pagination:widow-orphan;  
-text-align:left;  
-font-family:'Helvetica Neue';  
-mso-fareast-font-family:'Arial Unicode MS';  
-mso-bidi-font-family:'Arial Unicode MS';  
-color:rgb\(0,0,0\);  
-letter-spacing:0.0000pt;  
-font-size:11.0000pt;  
-}  
-  
-span.msoIns{  
-mso-style-type:export-only;  
-mso-style-name:"";  
-text-decoration:underline;  
-text-underline:single;  
-color:blue;  
-}  
-  
-span.msoDel{  
-mso-style-type:export-only;  
-mso-style-name:"";  
-text-decoration:line-through;  
-color:red;  
-}  
-@page{mso-page-border-surround-header:no;  
-	mso-page-border-surround-footer:no;}@page Section0{  
-margin-top:72.0000pt;  
-margin-bottom:72.0000pt;  
-margin-left:72.0000pt;  
-margin-right:72.0000pt;  
-size:612.0000pt 792.0000pt;  
-}  
-div.Section0{page:Section0;}
-
-
-
 ### **托尔斯泰的肖像描写艺术**
 
 托尔斯泰作品中的人物，正如高尔基所说，就好像是站在我们面前，可以触摸到似的。它们不仅是站立着，而且还在活动着，读者不仅可以看出他们的身材、容貌，服饰打扮，而且看得清他们的神态表情、举止气派；不但见其外表，而且可以洞彻他们的内心世界——气质、秉性、思想感情、精神状态和心理活动。这种描写所促成的艺术魅力是惊人的。他的描绘竟能真实到这样的地步：“能使你看不见书本，忘掉作者”，给人一种生动鲜明的直观实体感，即产生出强烈而鲜明的视觉效应，能使你忘记自己是在看小说，似乎觉得自己置身于他所描绘的人物之中，几乎忘掉了艺术的虚构世界与客观的真实世界的界限。这的确是一种极为高妙的艺术境界。

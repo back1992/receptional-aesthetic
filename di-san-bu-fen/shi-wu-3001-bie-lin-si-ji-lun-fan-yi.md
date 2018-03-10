@@ -1,93 +1,3 @@
-  
-@font-face{  
-font-family:"Times New Roman";  
-}  
-  
-@font-face{  
-font-family:"宋体";  
-}  
-  
-@font-face{  
-font-family:"Arial Unicode MS";  
-}  
-  
-@font-face{  
-font-family:"Helvetica Neue";  
-}  
-  
-@font-face{  
-font-family:"仿宋";  
-}  
-  
-@list l0:level1{  
-mso-level-number-format:chinese-counting;  
-mso-level-suffix:none;  
-mso-level-text:"%1、";  
-mso-level-tab-stop:none;  
-mso-level-number-position:left;  
-margin-left:0.0000pt;  
-text-indent:0.0000pt;  
-font-family:'Times New Roman';}  
-  
-p.MsoNormal{  
-mso-style-name:正文;  
-mso-style-parent:"";  
-margin-top:0.0000pt;  
-margin-right:0.0000pt;  
-margin-bottom:0.0000pt;  
-margin-left:0.0000pt;  
-text-indent:0.0000pt;  
-padding:0pt 0pt 0pt 0pt ;  
-mso-pagination:widow-orphan;  
-text-align:left;  
-font-family:'Times New Roman';  
-mso-fareast-font-family:'Arial Unicode MS';  
-letter-spacing:0.0000pt;  
-font-size:12.0000pt;  
-}  
-  
-p.15{  
-mso-style-name:正文1;  
-margin-top:0.0000pt;  
-margin-right:0.0000pt;  
-margin-bottom:0.0000pt;  
-margin-left:0.0000pt;  
-text-indent:0.0000pt;  
-padding:0pt 0pt 0pt 0pt ;  
-mso-pagination:widow-orphan;  
-text-align:left;  
-font-family:'Helvetica Neue';  
-mso-fareast-font-family:'Arial Unicode MS';  
-mso-bidi-font-family:'Arial Unicode MS';  
-color:rgb\(0,0,0\);  
-letter-spacing:0.0000pt;  
-font-size:11.0000pt;  
-}  
-  
-span.msoIns{  
-mso-style-type:export-only;  
-mso-style-name:"";  
-text-decoration:underline;  
-text-underline:single;  
-color:blue;  
-}  
-  
-span.msoDel{  
-mso-style-type:export-only;  
-mso-style-name:"";  
-text-decoration:line-through;  
-color:red;  
-}  
-@page{mso-page-border-surround-header:no;  
-	mso-page-border-surround-footer:no;}@page Section0{  
-margin-top:72.0000pt;  
-margin-bottom:72.0000pt;  
-margin-left:72.0000pt;  
-margin-right:72.0000pt;  
-size:612.0000pt 792.0000pt;  
-}  
-div.Section0{page:Section0;}
-
 别林斯基论翻译
 
 俄国伟大的文学批评家别林斯基对文学翻译工作极为重视。他留下了数十篇专门论述翻译问题的论文，还有几百篇评价翻译作品的文章。只要阅读一下别林斯基有关这方面的文章，就可以看出这位伟大的批评家，对翻译工作的性质有一个清晰透彻的概念，对翻译问题有精辟的、独到的见解。他在文学翻译方面的论述，至今仍有十分宝贵的参考价值。
@@ -127,6 +37,4 @@ div.Section0{page:Section0;}
 当前，我们在文学翻译的实践中，同样遇到了这些关键性的问题；因此，学习和研究别林斯基有关翻译问题的理论，对每个翻译工作者是十分有现实意义的。
 
 注：本文的引文和根据全是来自《别林斯基全集》苏联科学院出版局1953年版。
-
-at\*�����\*
 

@@ -1,64 +1,3 @@
-  
-@font-face{  
-font-family:"Times New Roman";  
-}  
-  
-@font-face{  
-font-family:"宋体";  
-}  
-  
-@font-face{  
-font-family:"Liberation Serif";  
-}  
-  
-@font-face{  
-font-family:"Noto Sans CJK SC Regular";  
-}  
-  
-@font-face{  
-font-family:"FreeSans";  
-}  
-  
-@font-face{  
-font-family:"仿宋";  
-}  
-  
-p.MsoNormal{  
-mso-style-name:正文;  
-mso-style-parent:"";  
-margin:0pt;  
-margin-bottom:.0001pt;  
-mso-pagination:widow-orphan;  
-font-family:'Liberation Serif';  
-mso-fareast-font-family:'Noto Sans CJK SC Regular';  
-mso-bidi-font-family:FreeSans;  
-font-size:12.0000pt;  
-}  
-  
-span.msoIns{  
-mso-style-type:export-only;  
-mso-style-name:"";  
-text-decoration:underline;  
-text-underline:single;  
-color:blue;  
-}  
-  
-span.msoDel{  
-mso-style-type:export-only;  
-mso-style-name:"";  
-text-decoration:line-through;  
-color:red;  
-}  
-@page{mso-page-border-surround-header:no;  
-	mso-page-border-surround-footer:no;}@page Section0{  
-margin-top:56.7000pt;  
-margin-bottom:56.7000pt;  
-margin-left:56.7000pt;  
-margin-right:56.7000pt;  
-size:595.3000pt 841.9000pt;  
-}  
-div.Section0{page:Section0;}
-
 普希金笔下的多余人形象
 
 长篇诗体小说《叶甫盖尼·奥涅金》是普希金的代表作，也是俄国文学史上第一部广泛描写社会现实生活的诗体长篇小说。它和法国司汤达的《红与黑》是在同一年\(1830年\)完成的。
@@ -83,7 +22,4 @@ div.Section0{page:Section0;}
 
 《叶甫盖尼·奥涅金》语言优美，音韵流畅，拥有自己独特的“奥涅金诗节”的格律。这种格律每节十四行，每行之中包括四个轻重格的音步。韵律工整和谐，极富有节奏感和音乐性，饱含着一种特殊的艺术魅力。全书四百二十四个诗节，基本上都按照这种格律一贯到底，恰似一条诗的长河。
 
-
-
-���v�7
 

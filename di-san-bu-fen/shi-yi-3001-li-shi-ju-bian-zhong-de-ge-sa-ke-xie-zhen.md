@@ -1,107 +1,3 @@
-  
-@font-face{  
-font-family:"Times New Roman";  
-}  
-  
-@font-face{  
-font-family:"宋体";  
-}  
-  
-@font-face{  
-font-family:"Arial Unicode MS";  
-}  
-  
-@font-face{  
-font-family:"Helvetica Neue";  
-}  
-  
-@font-face{  
-font-family:"仿宋";  
-}  
-  
-p.MsoNormal{  
-mso-style-name:正文;  
-mso-style-parent:"";  
-margin-top:0.0000pt;  
-margin-right:0.0000pt;  
-margin-bottom:0.0000pt;  
-margin-left:0.0000pt;  
-text-indent:0.0000pt;  
-padding:0pt 0pt 0pt 0pt ;  
-mso-pagination:widow-orphan;  
-text-align:left;  
-font-family:'Times New Roman';  
-mso-fareast-font-family:'Arial Unicode MS';  
-letter-spacing:0.0000pt;  
-font-size:12.0000pt;  
-}  
-  
-h3{  
-mso-style-name:"标题 3";  
-mso-style-noshow:yes;  
-mso-style-next:正文;  
-margin-top:13.0000pt;  
-margin-right:0.0000pt;  
-margin-bottom:13.0000pt;  
-margin-left:0.0000pt;  
-mso-para-margin-top:0.0000gd;  
-mso-para-margin-bottom:0.0000gd;  
-text-indent:0.0000pt;  
-padding:0pt 0pt 0pt 0pt ;  
-page-break-after:avoid;  
-mso-pagination:widow-orphan lines-together;  
-text-align:left;  
-mso-outline-level:3;  
-line-height:172%;  
-font-family:'Times New Roman';  
-mso-fareast-font-family:'Arial Unicode MS';  
-letter-spacing:0.0000pt;  
-font-weight:bold;  
-font-size:16.0000pt;  
-}  
-  
-p.15{  
-mso-style-name:正文1;  
-margin-top:0.0000pt;  
-margin-right:0.0000pt;  
-margin-bottom:0.0000pt;  
-margin-left:0.0000pt;  
-text-indent:0.0000pt;  
-padding:0pt 0pt 0pt 0pt ;  
-mso-pagination:widow-orphan;  
-text-align:left;  
-font-family:'Helvetica Neue';  
-mso-fareast-font-family:'Arial Unicode MS';  
-mso-bidi-font-family:'Arial Unicode MS';  
-color:rgb\(0,0,0\);  
-letter-spacing:0.0000pt;  
-font-size:11.0000pt;  
-}  
-  
-span.msoIns{  
-mso-style-type:export-only;  
-mso-style-name:"";  
-text-decoration:underline;  
-text-underline:single;  
-color:blue;  
-}  
-  
-span.msoDel{  
-mso-style-type:export-only;  
-mso-style-name:"";  
-text-decoration:line-through;  
-color:red;  
-}  
-@page{mso-page-border-surround-header:no;  
-	mso-page-border-surround-footer:no;}@page Section0{  
-margin-top:72.0000pt;  
-margin-bottom:72.0000pt;  
-margin-left:72.0000pt;  
-margin-right:72.0000pt;  
-size:612.0000pt 792.0000pt;  
-}  
-div.Section0{page:Section0;}
-
 ### **历史巨变中的哥萨克写真**
 
 在苏联文学史上，肖洛霍夫是享有世界声誉的作家。他从二十年代登上文坛开始就以独特的艺术风格描写顿河地区的哥萨克如何从苦难中走向新生活。他对文学的影响，一直延续到当代都长盛不衰。
@@ -161,10 +57,3 @@ div.Section0{page:Section0;}
 事》、《静静的顿河》、《被开垦的处女地》等作品中，多次再现了国内战争时期苏维埃政权对待哥萨克和中农阶层的过火政策。这种对生活真实的描写，表现了作家坚持艺术真理的胆识。然而，肖洛霍夫在提倡写真实的同时，对生活素材提炼不够，过分热衷于某些琐碎、庸俗的现象，分不出事物的本质和非本质界限，暴露出舍本求末以本代末的偏颇。肖洛霍失有时单凭直观去描写现实，未能处理好艺术的局部真实和整体真实的关系。所以，他写真实的主张在某种程度上又陷入了自然主义美学的藩篱。
 
 肖洛霍夫是一个塑造典型的艺术大师。他善于把自己的主人公引到历史的洪流中去，在历史的发展中积极活动，参与社会变革。这些人物的命运反映了历史的进程，历史的进程又制约着他们的命运。他笔下的每个人物，都按自己的特有方式去爱、去恨、去寻求、去探索、去体验。但他的主人公一经诞生，人类也就增加了一个鲜明的代表。肖洛霍夫塑造典型人物的手法又多种多样，他尤其喜爱把人物置于社会生活中，置于大自然的背景上，且借助于千变万化的心理描写，使人、社会和自然形成一个和谐的整体。通过人物与外部环境、与其他人物的关系来显示心灵运动，是肖洛霍夫心理描写的重要手段。所以他笔下的每一个典型都有丰富的感情世界，对劳动、对生活、对自然、对友谊、对爱情、对真理、对幸福，都表现出真挚而强烈的憧憬。再辅之以生动活泼、幽默诙谐、又富有个性的语言，使得他塑造的典型，令读者难以忘怀。可以说，肖氏的创作是一个独特的艺术世界。
-
-
-
-
-
-s
-

@@ -1,96 +1,3 @@
-  
-@font-face{  
-font-family:"Times New Roman";  
-}  
-  
-@font-face{  
-font-family:"宋体";  
-}  
-  
-@font-face{  
-font-family:"Calibri";  
-}  
-  
-@font-face{  
-font-family:"Courier New";  
-}  
-  
-p.MsoNormal{  
-mso-style-name:正文;  
-mso-style-parent:"";  
-margin:0pt;  
-margin-bottom:.0001pt;  
-mso-pagination:none;  
-text-align:justify;  
-text-justify:inter-ideograph;  
-font-family:Calibri;  
-mso-fareast-font-family:宋体;  
-mso-bidi-font-family:'Times New Roman';  
-font-size:10.5000pt;  
-mso-font-kerning:1.0000pt;  
-}  
-  
-h3{  
-mso-style-name:"标题 3";  
-mso-style-noshow:yes;  
-mso-style-next:正文;  
-margin-top:13.0000pt;  
-margin-bottom:13.0000pt;  
-mso-para-margin-top:0.0000gd;  
-mso-para-margin-bottom:0.0000gd;  
-page-break-after:avoid;  
-mso-pagination:lines-together;  
-text-align:justify;  
-text-justify:inter-ideograph;  
-mso-outline-level:3;  
-line-height:172%;  
-font-family:Calibri;  
-mso-fareast-font-family:宋体;  
-mso-bidi-font-family:'Times New Roman';  
-font-weight:bold;  
-font-size:16.0000pt;  
-mso-font-kerning:1.0000pt;  
-}  
-  
-span.15{  
-font-family:Calibri;  
-font-weight:bold;  
-font-size:16.0000pt;  
-}  
-  
-p.MsoPlainText{  
-mso-style-name:纯文本;  
-margin:0pt;  
-margin-bottom:.0001pt;  
-mso-pagination:none;  
-text-align:justify;  
-text-justify:inter-ideograph;  
-font-family:宋体;  
-mso-hansi-font-family:'Courier New';  
-mso-bidi-font-family:'Times New Roman';  
-font-size:10.5000pt;  
-mso-font-kerning:1.0000pt;  
-}  
-  
-span.msoIns{  
-mso-style-type:export-only;  
-mso-style-name:"";  
-text-decoration:underline;  
-text-underline:single;  
-color:blue;  
-}  
-  
-span.msoDel{  
-mso-style-type:export-only;  
-mso-style-name:"";  
-text-decoration:line-through;  
-color:red;  
-}  
-@page{mso-page-border-surround-header:no;  
-	mso-page-border-surround-footer:no;}@page Section0{  
-}  
-div.Section0{page:Section0;}
-
 **梅特林克及其神秘主义象征剧**
 
 在欧洲戏剧史上，易卜生和梅特林克是继莎士比亚之后的两颗巨星。易卜生在我囯几乎家喻户晓，他的《社会问题剧》得到了我国戏剧界的高度评价；而梅特林克在我国的知名度却远远不如一些三四流的作家，这样的现象不能说是正常的。很显然，这不是由于梅氏本身微不足道的缘故，而是因为他的戏剧观念与众不同，他的表现手法别出一格等原因所致。

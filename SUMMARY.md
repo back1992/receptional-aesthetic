@@ -75,7 +75,7 @@
   * [八、梅特林克及其神秘主义象征剧](di-san-bu-fen/ba-3001-mei-te-lin-ke-ji-qi-shen-mi-zhu-yi-xiang-zheng-ju.md)
   * [九、普希金笔下的多余人形象](di-san-bu-fen/jiu-3001-pu-xi-jin-bi-xia-de-duo-yu-ren-xing-xiang.md)
   * [十、果戈里和《死魂灵》](di-san-bu-fen/guo-ge-li-he-300a-si-hun-ling-300b.md)
-  * 十一、托尔斯泰的肖像描写艺术
+  * [十一、托尔斯泰的肖像描写艺术](di-san-bu-fen/shi-yi-3001-tuo-er-si-tai-de-xiao-xiang-miao-xie-yi-zhu.md)
   * [十二、浅论肖洛霍夫创作特色](di-san-bu-fen/e-guo-zuo-jia-xiao-luo-huo-fu-de-chuang-zuo-te-se.md)
   * 十三、一条泡在油里的沙丁鱼
   * [十四、历史巨变中的哥萨克写真](di-san-bu-fen/shi-yi-3001-li-shi-ju-bian-zhong-de-ge-sa-ke-xie-zhen.md)

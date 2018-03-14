@@ -80,9 +80,4 @@
   * [十三、一条泡在油里的沙丁鱼](di-san-bu-fen\yi-tiao-201c-pao-zai-you-li-de-sha-ding-yu-201d.md)
   * [十四、历史巨变中的哥萨克写真](di-san-bu-fen/shi-yi-3001-li-shi-ju-bian-zhong-de-ge-sa-ke-xie-zhen.md)
   * [十五、别林斯基论翻译](di-san-bu-fen/shi-wu-3001-bie-lin-si-ji-lun-fan-yi.md)
-* [第四部分:测试](di-san-bu-fen.md)
-  * [关于莎士比亚的新话题](di-san-bu-fen/guan-yu-sha-shi-bi-ya-de-xin-hua-ti.md)
-    * [test](test.md)
-    * [figure](di-san-bu-fen/figure.md)
-  * [newtest](di-san-bu-fen/newtest.md)
 

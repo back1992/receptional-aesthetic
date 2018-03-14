@@ -72,12 +72,12 @@
   * [五、人的颂歌    ——《海上劳工》读后](di-san-bu-fen/ren-de-song-ge-2014-2014-yu-guo-ren-dao-zhu-yi-san-bu-qu-300a-hai-shang-lao-gong-300b-du-hou.md)
   * [六、《老人与海》和《一个人的遭遇》比较研究](di-san-bu-fen/lao-ren-yu-hai-300b-he-300a-yi-ge-ren-de-zao-yu-300b-bi-jiao-yan-jiu.md)
   * [七、表现主义的美学体现   ——读巴·拉格维斯的《侏儒》](di-san-bu-fen/biao-xian-zhu-yi-de-mei-xue-ti-xian-2014-2014-du-5df4b7-la-ge-wei-si-de-300a-zhu-ru-300b.md)
-  * 八、梅特林克及其神秘主义象征剧
-  * 九、普希金笔下的多余人形象
+  * [八、梅特林克及其神秘主义象征剧](di-san-bu-fen/ba-3001-mei-te-lin-ke-ji-qi-shen-mi-zhu-yi-xiang-zheng-ju.md)
+  * [九、普希金笔下的多余人形象](di-san-bu-fen/jiu-3001-pu-xi-jin-bi-xia-de-duo-yu-ren-xing-xiang.md)
   * [十、果戈里和《死魂灵》](di-san-bu-fen/guo-ge-li-he-300a-si-hun-ling-300b.md)
-  * 十一、托尔斯泰的肖像描写艺术
+  * [十一、托尔斯泰的肖像描写艺术](di-san-bu-fen/shi-yi-3001-tuo-er-si-tai-de-xiao-xiang-miao-xie-yi-zhu.md)
   * [十二、浅论肖洛霍夫创作特色](di-san-bu-fen/e-guo-zuo-jia-xiao-luo-huo-fu-de-chuang-zuo-te-se.md)
-  * 十三、一条泡在油里的沙丁鱼
+  * [十三、一条泡在油里的沙丁鱼](di-san-bu-fen\yi-tiao-201c-pao-zai-you-li-de-sha-ding-yu-201d.md)
   * [十四、历史巨变中的哥萨克写真](di-san-bu-fen/shi-yi-3001-li-shi-ju-bian-zhong-de-ge-sa-ke-xie-zhen.md)
   * [十五、别林斯基论翻译](di-san-bu-fen/shi-wu-3001-bie-lin-si-ji-lun-fan-yi.md)
 * [第四部分:测试](di-san-bu-fen.md)

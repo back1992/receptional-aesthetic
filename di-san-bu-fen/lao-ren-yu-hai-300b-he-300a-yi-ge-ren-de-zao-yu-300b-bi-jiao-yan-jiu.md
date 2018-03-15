@@ -4,7 +4,7 @@
 
 &emsp;&emsp;《老人与海》和《一个人的遭遇》在艺术构思上有着惊人的相似性：都通过叙述一个具体人的遭遇，揭示“人的命运”,为了深化主题，作品情节简单，人物有限，而把笔力集中于塑造一个硬汉的形象；又都写了一位可爱的小孩，以示人类历史的延续。这些共同性构成了它们间的可比性。但是，由于两位作者生活的社会环境不同，哲学观和艺术观不同，又是从不同的视角和不同的层次去考察人的命运；因此两部作品在基调和风格上迥然不同。本文从比较研究的角度，将它们加以对比，以见其异；加以类比，以认其同；并探求这些现象产生的原由。
 
-<div style="float:left;border:solid 1px 000;margin:2px;"><img src="/assets/800px-ErnestHemingway.jpg"  width="20" height="26" >
+<div style="float:left;border:solid 1px 000;margin:2px;"><img src="/assets/800px-ErnestHemingway.jpg"  width="20" height="26" > </div>
 
 <div style="float:left;border:solid 1px 000;margin:2px;"><img src="/assets/Sholokhov-1938.jpg" width="20" height="26" ></div>
 

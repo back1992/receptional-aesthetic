@@ -2,9 +2,6 @@
 
   俄国伟大的文学批评家别林斯基对文学翻译工作极为重视。他留下了数十篇专门论述翻译问题的论文，还有几百篇评价翻译作品的文章。只要阅读一下别林斯基有关这方面的文章，就可以看出这位伟大的批评家，对翻译工作的性质有一个清晰透彻的概念，对翻译问题有精辟的、独到的见解。他在文学翻译方面的论述，至今仍有十分宝贵的参考价值。
 
-![](https://upload.wikimedia.org/wikipedia/commons/3/36/Vissarion_Belinsky_by_K_Gorbunov_1843.jpg)
-
-
 <figure>
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Vissarion_Belinsky_by_K_Gorbunov_1843.jpg" alt="Phra Nakhon Khiri, Phetchaburi">
     <figcaption>Vissarion Belinsky by K Gorbunov 1843</figcaption>

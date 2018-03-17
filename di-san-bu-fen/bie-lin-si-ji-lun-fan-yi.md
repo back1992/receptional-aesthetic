@@ -4,6 +4,12 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/3/36/Vissarion_Belinsky_by_K_Gorbunov_1843.jpg)
 
+
+<figure>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Vissarion_Belinsky_by_K_Gorbunov_1843.jpg" alt="Phra Nakhon Khiri, Phetchaburi">
+    <figcaption>Image - Phra Nakhon Khiri, Phetchaburi</figcaption>
+</figure>
+
 ### 一、关于翻译工作的意义
 
   别林斯基对翻译工作在社会生活中的作用评价极高。他认为：“翻译事业是和繁荣祖国的文学，是和俄国千百万读者利益体戚相关的。”他针对当时有人企图贬低翻译工作意义，反驳说：“世界上有些人断言‘无论翻译什么，无论从哪种语言翻译，全是白费心血，对文学对社会都不会带来利益；因为翻译的习惯只能促使人们无须绞尽脑汁而出卖别人的现成思想’……他们认为，至今好象没有一本译作是值得读过原文后再去读一读的这些想法倒是很深刻、很聪明，遗憾的是这些人忘了翻译作品主要的不是给读原文的人看，而是给不能读原文的人看。更主要的是为了各族人民之间能互相了解，能互相传播思想，从而繁荣文化和发展智慧。”

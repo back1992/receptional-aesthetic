@@ -7,7 +7,7 @@
 
 <figure>
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Vissarion_Belinsky_by_K_Gorbunov_1843.jpg" alt="Phra Nakhon Khiri, Phetchaburi">
-    <figcaption>Image - Phra Nakhon Khiri, Phetchaburi</figcaption>
+    <figcaption>Vissarion Belinsky by K Gorbunov 1843</figcaption>
 </figure>
 
 ### 一、关于翻译工作的意义

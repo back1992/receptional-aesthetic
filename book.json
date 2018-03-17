@@ -20,7 +20,7 @@
             }
         },
         "image-captions": {
-            "caption": "Image - _CAPTION_"
+            "caption": "图 - _CAPTION_ - 来源维基百科"
         },
         "mathjax":{
             "forceSVG": true

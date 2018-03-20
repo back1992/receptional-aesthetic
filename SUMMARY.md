@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [序言](chapter1.md)
+* [序言……朱立元](chapter1.md)
 * [第一篇:接受美学理论解读](di-yi-bu-fen.md)
   * [一、接受美学的缘起和现状](di-yi-bu-fen/1-yi-3001-jie-shou-mei-xue-de-yuan-qi-he-xian-zhuang.md)
   * [二、接受美学的文学观念](di-yi-bu-fen/2-er-3001-jie-shou-mei-xue-de-wen-xue-guan-nian.md)
@@ -80,5 +80,5 @@
   * [十三、一条泡在油里的沙丁鱼](di-san-bu-fen\yi-tiao-201c-pao-zai-you-li-de-sha-ding-yu-201d.md)
   * [十四、历史巨变中的哥萨克写真](di-san-bu-fen/li-shi-ju-bian-zhong-de-ge-sa-ke-xie-zhen.md)
   * [十五、别林斯基论翻译](di-san-bu-fen/bie-lin-si-ji-lun-fan-yi.md)
-* 后记之二
+* [后记之二](hou-ji-zhi-er.md)
 

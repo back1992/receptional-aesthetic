@@ -1,5 +1,5 @@
 {
-  "plugins": ["autocover","image-div", "image-wrapper", "katex","mathjax","mermaid","js-sequence-diagram","local-video", "bilibili",  "image-captions", "html5-video"],
+  "plugins": ["autocover","image-div", "image-wrapper", "katex","mathjax","js-sequence-diagram","local-video", "bilibili",  "image-captions", "html5-video"],
   "pluginsConfig": {
     "autocover": {
     "title": "接受美学论谭",

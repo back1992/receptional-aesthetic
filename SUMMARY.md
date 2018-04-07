@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
 * [序言](chapter1.md)
-* [序言二](xu-yan-er.md)
-* [序言三](xu-yan-san.md)
+* [序言二 点染长空的一抹彩虹](xu-yan-er.md)
+* [序言三 接受美学 修订版](xu-yan-san.md)
 * [第一篇:接受美学理论解读](di-yi-bu-fen.md)
   * [一、接受美学的缘起和现状](di-yi-bu-fen/1-yi-3001-jie-shou-mei-xue-de-yuan-qi-he-xian-zhuang.md)
   * [二、接受美学的文学观念](di-yi-bu-fen/2-er-3001-jie-shou-mei-xue-de-wen-xue-guan-nian.md)

@@ -83,5 +83,5 @@
   * [十四、历史巨变中的哥萨克写真](di-san-bu-fen/li-shi-ju-bian-zhong-de-ge-sa-ke-xie-zhen.md)
   * [十五、别林斯基论翻译](di-san-bu-fen/bie-lin-si-ji-lun-fan-yi.md)
 * [后记之二](hou-ji-zhi-er.md)(hou-ji-zhi-er/fu-lu-ff1a-lun-wen-fa-biao-chu-chu.md)
-* [附录：论文发表出处]
+* [附录：论文发表出处]()
 
